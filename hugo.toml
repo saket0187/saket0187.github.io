@@ -1,0 +1,47 @@
+baseURL = "https://saket0187.github.io/"
+languageCode = "en-us"
+title = "Saket Kumar Mall "
+theme = "PaperMod"
+
+[params]
+    env = 'production'
+    author = 'Saket Kumar Mall'
+    defaultTheme = 'auto'
+    ShowReadingTime = true
+    ShowToc = true
+    ShowShareButtons = false
+    displayFullLangName = true
+    
+    [params.profileMode]
+        enabled = false
+        
+    [params.homeInfoParams]
+        Title = "Hi, I'm Saket Kumar Mall 💻"
+        Content = "Aspiring Software Engineer | Open Source Contributor\n\nWelcome to my digital garden. I am a student specializing in software engineering, machine learning, and scalable systems. Currently, I am participating in **GSoC 2026** contributing to GRASS. I build robust full-stack applications, machine learning models and explore geospatial data.\n\nExplore my latest  [GSoC Experience Blog](/gsoc-2026/) and feel free to connect with me if you want!"
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/saket0187"
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://linkedin.com/in/saket-kumar-mall"
+    [[params.socialIcons]]
+        name = "email"
+        url = "mailto:saketmalltheofficial08@gmail.com"
+    [[params.socialIcons]]
+        name = "leetcode"
+        url = "https://leetcode.com/u/Saket_Kumar_Mall/"
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 10
+    [[menu.main]]
+        identifier = "gsoc"
+        name = "GSoC 2026 Journey"
+        url = "/gsoc-2026/"
+        weight = 30
+
+[markup.goldmark.renderer]
+    unsafe = true
