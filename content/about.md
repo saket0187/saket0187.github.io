@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: "Background, skills, and open source philosophy."
+description: "Background, skills, and open source experience."
 ---
 
 I am Saket, a Computer Science student at the SRM Institute of Science & Technology, with a deep passion for building scalable backend systems, data pipelines, and contributing to open-source software.
