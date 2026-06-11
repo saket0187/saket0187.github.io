@@ -9,7 +9,7 @@ I am Saket, a Computer Science student at the SRM Institute of Science & Technol
 ### - Open Source & Google Summer of Code
 Currently, I am a **Student Developer for Google Summer of Code 2026**, contributing to **GRASS**. My work focuses on transitioning complex CLI-only workflows into intuitive, tree-based data catalogs for Spatio-Temporal Datasets. This involves developing graphical interfaces with Python and wxPython, upgrading core temporal modules, and integrating new features. 
 
-You can follow my weekly progress and technical notes on my [GSoC 2026 Journey](/gsoc/) page.
+You can follow my weekly progress and technical notes on my [GSoC 2026 Journey](/gsoc-2026/) page.
 
 ### - Algorithmic Problem Solving
 Beyond my development skills, I am heavily invested in data structures, algorithms, and competitive programming:
